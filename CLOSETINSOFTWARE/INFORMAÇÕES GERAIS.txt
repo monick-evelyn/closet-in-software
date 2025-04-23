@@ -1,0 +1,8 @@
+INFORMAÇÕES GERAIS:
+
+- O projeto foi desenvolvido no compilador Apache NetBeans IDE 18.
+
+EQUIPE:
+Iuan Pablo de Medeiros Oliveira
+Monick Évelyn Soares Nóbrega de Araújo
+Vitória Ketillyn de Oliveira Baca
