@@ -4,7 +4,7 @@
 
 <h3>💡 Sobre o Projeto </h3>
 <p> Inspirado nos desafios reais enfrentados por uma colega que trabalha com varejo de moda, este software foi criado para ajudar lojas de roupas a terem mais controle e eficiência na sua gestão. </p>
-O <i> Closet in Software </i> foi desenvolvido em colaboração com meus colegas Iuan Pablo de Medeiros Oliveira e Vitória Ketillyn de Oliveira Baca, como parte de uma proposta interdisciplinar integrando os conhecimentos das disciplinas de:
+<p>O <i> Closet in Software </i> foi desenvolvido em colaboração com meus colegas Iuan Pablo de Medeiros Oliveira e Vitória Ketillyn de Oliveira Baca, como parte de uma proposta interdisciplinar integrando os conhecimentos das disciplinas de:</p>
 <p> • 📊 Banco de Dados</p>
 <p> • 🧩 Estrutura de Dados</p>
 <p> • ☕ Programação Orientada a Objetos (POO)</p>
